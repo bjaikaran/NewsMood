@@ -1,0 +1,5 @@
+consumer_key = "mMSSQyXuCu0TBhT0qd76xLzSs"
+consumer_secret = "5hVH5et1oAuEEan2vmmzQBhUTwxs2ChWdspjmYx3BcxekHKoGs"
+access_token = "96788846-PfbApsPcrKXCqZT3wcmdsiEtSslFFEkuOETBCSfrx"
+access_token_secret = "BGVAdN5IzxVCpjNcr9B7SQnTEWJnxAOC5F1l6JbqJmZDY"
+weather_api_key = "342be2d87aa1a01ee23d2f18e71b767e"
